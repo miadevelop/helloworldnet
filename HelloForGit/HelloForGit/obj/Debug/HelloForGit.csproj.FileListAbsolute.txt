@@ -1,0 +1,7 @@
+C:\temp\helloworldnet\HelloForGit\HelloForGit\bin\Debug\HelloForGit.exe.config
+C:\temp\helloworldnet\HelloForGit\HelloForGit\bin\Debug\HelloForGit.exe
+C:\temp\helloworldnet\HelloForGit\HelloForGit\bin\Debug\HelloForGit.pdb
+C:\temp\helloworldnet\HelloForGit\HelloForGit\obj\Debug\HelloForGit.csprojResolveAssemblyReference.cache
+C:\temp\helloworldnet\HelloForGit\HelloForGit\obj\Debug\HelloForGit.csproj.CoreCompileInputs.cache
+C:\temp\helloworldnet\HelloForGit\HelloForGit\obj\Debug\HelloForGit.exe
+C:\temp\helloworldnet\HelloForGit\HelloForGit\obj\Debug\HelloForGit.pdb
